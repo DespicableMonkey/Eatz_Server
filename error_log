@@ -1,0 +1,5 @@
+Error[08-May-2021 19:16:14 UTC] PHP Notice:  Undefined variable: host in /home/n4a76f79ha55/public_html/recex.applications.pulkith.com/connection.php on line 7
+[08-May-2021 19:16:14 UTC] PHP Notice:  Undefined variable: user in /home/n4a76f79ha55/public_html/recex.applications.pulkith.com/connection.php on line 7
+[08-May-2021 19:16:14 UTC] PHP Notice:  Undefined variable: password in /home/n4a76f79ha55/public_html/recex.applications.pulkith.com/connection.php on line 7
+[08-May-2021 19:16:14 UTC] PHP Notice:  Undefined variable: db in /home/n4a76f79ha55/public_html/recex.applications.pulkith.com/connection.php on line 7
+[08-May-2021 19:16:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'n4a76f79ha55'@'localhost' (using password: NO) in /home/n4a76f79ha55/public_html/recex.applications.pulkith.com/connection.php on line 7
